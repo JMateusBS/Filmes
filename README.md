@@ -10,13 +10,12 @@ An app to save your favorite movies
 Room,
 Retrofit2,
 Navigation Component
+![Screenshot_1618483282](https://user-images.githubusercontent.com/25106360/114857942-3f39d080-9dbf-11eb-975c-7c5494ee0afd.png)
+![Screenshot_1618483317](https://user-images.githubusercontent.com/25106360/114857948-41039400-9dbf-11eb-8b14-9d3b1bce352d.png)
+![Screenshot_1618483326](https://user-images.githubusercontent.com/25106360/114857951-4234c100-9dbf-11eb-913f-7b1d9bb4a473.png)
+![Screenshot_1618483330](https://user-images.githubusercontent.com/25106360/114857954-4234c100-9dbf-11eb-82ff-561dccac223f.png)
 
-![Screenshot_1618483338](https://user-images.githubusercontent.com/25106360/114857777-0bf74180-9dbf-11eb-86d3-43a6f41636be.png)
-![Screenshot_1618483341](https://user-images.githubusercontent.com/25106360/114857790-0ef23200-9dbf-11eb-81b1-f98f4fa22585.png)
-![Screenshot_1618483346](https://user-images.githubusercontent.com/25106360/114857796-11548c00-9dbf-11eb-952a-68bd40cb8988.png)
-![Screenshot_1618483350](https://user-images.githubusercontent.com/25106360/114857798-11ed2280-9dbf-11eb-91d8-eb5fdd39e444.png)
-![Screenshot_1618483433](https://user-images.githubusercontent.com/25106360/114857800-1285b900-9dbf-11eb-8ba9-059c24b599ab.png)
-![Screenshot_1618483282](https://user-images.githubusercontent.com/25106360/114857813-174a6d00-9dbf-11eb-8640-18a43e2fee7a.png)
-![Screenshot_1618483317](https://user-images.githubusercontent.com/25106360/114857820-19143080-9dbf-11eb-9d1c-1bbe9d426678.png)
-![Screenshot_1618483326](https://user-images.githubusercontent.com/25106360/114857821-19acc700-9dbf-11eb-87ea-9377a3d2192c.png)
-![Screenshot_1618483330](https://user-images.githubusercontent.com/25106360/114857822-1a455d80-9dbf-11eb-9be9-7b65b3f08750.png)
+![Screenshot_1618483338](https://user-images.githubusercontent.com/25106360/114857980-49f46580-9dbf-11eb-81d5-30db015c45c3.png)
+![Screenshot_1618483341](https://user-images.githubusercontent.com/25106360/114857987-4bbe2900-9dbf-11eb-9caf-4c42cfaefc06.png)
+![Screenshot_1618483346](https://user-images.githubusercontent.com/25106360/114857989-4c56bf80-9dbf-11eb-83ec-23cd07e731e0.png)
+![Screenshot_1618483350](https://user-images.githubusercontent.com/25106360/114857993-4cef5600-9dbf-11eb-9bd3-ca6a039be764.png)
