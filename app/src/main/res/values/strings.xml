@@ -2,6 +2,13 @@
     <string name="app_name">Movies</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="movies_fragment">Filmes</string>
-    <string name="movies_favorite">Favoritos</string>
+    <string name="movies_fragment">Movies</string>
+    <string name="movies_favorite">Favorites</string>
+    <string name="filter">Show</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+    <string name="no_favorite_movies">No Favorite Movies.</string>
+    <string name="delete_favorite_menu">Delete Favorite Menu</string>
+    <string name="delete_all">Delete All</string>
 </resources>

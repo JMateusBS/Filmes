@@ -7,12 +7,41 @@
 
     <fragment
         android:id="@+id/moviesFragment"
-        android:name="com.project.movies.MoviesFragment"
-        android:label="Filmes"
-        tools:layout="@layout/fragment_movies" />
+        android:name="com.project.movies.ui.fragments.movies.MoviesFragment"
+        android:label="Movies"
+        tools:layout="@layout/fragment_movies" >
+        <action
+            android:id="@+id/action_moviesFragment_to_moviesBottomSheet"
+            app:destination="@id/moviesBottomSheet" />
+        <action
+            android:id="@+id/action_moviesFragment_to_detailsActivity"
+            app:destination="@id/detailsActivity" />
+    </fragment>
     <fragment
         android:id="@+id/favoriteMoviesFragment"
-        android:name="com.project.movies.FavoriteMoviesFragment"
-        android:label="Favoritos"
-        tools:layout="@layout/fragment_favorite_movies" />
+        android:name="com.project.movies.ui.fragments.favorites.FavoriteMoviesFragment"
+        android:label="Favorites"
+        tools:layout="@layout/fragment_favorite_movies" >
+        <action
+            android:id="@+id/action_favoriteMoviesFragment_to_detailsActivity"
+            app:destination="@id/detailsActivity" />
+    </fragment>
+    <dialog
+        android:id="@+id/moviesBottomSheet"
+        android:name="com.project.movies.ui.fragments.movies.bottomsheet.MoviesBottomSheet"
+        android:label="movies_bottom_sheet"
+        tools:layout="@layout/movies_bottom_sheet" >
+        <action
+            android:id="@+id/action_moviesBottomSheet_to_moviesFragment"
+            app:destination="@id/moviesFragment" />
+    </dialog>
+    <activity
+        android:id="@+id/detailsActivity"
+        android:name="com.project.movies.ui.DetailsActivity"
+        android:label="Details"
+        tools:layout="@layout/activity_details" >
+        <argument
+            android:name="result"
+            app:argType="com.project.movies.model.Result" />
+    </activity>
 </navigation>
