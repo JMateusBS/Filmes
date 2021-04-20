@@ -10,12 +10,11 @@ An app to save your favorite movies
 Room,
 Retrofit2,
 Navigation Component
-![Screenshot_1618483282](https://user-images.githubusercontent.com/25106360/114857942-3f39d080-9dbf-11eb-975c-7c5494ee0afd.png)
-![Screenshot_1618483317](https://user-images.githubusercontent.com/25106360/114857948-41039400-9dbf-11eb-8b14-9d3b1bce352d.png)
-![Screenshot_1618483326](https://user-images.githubusercontent.com/25106360/114857951-4234c100-9dbf-11eb-913f-7b1d9bb4a473.png)
-![Screenshot_1618483330](https://user-images.githubusercontent.com/25106360/114857954-4234c100-9dbf-11eb-82ff-561dccac223f.png)
+![Screenshot_1618484290](https://user-images.githubusercontent.com/25106360/114858900-6e047680-9dc0-11eb-9bc4-8e8939a867e8.png)
+![Screenshot_1618484295](https://user-images.githubusercontent.com/25106360/114858904-6f35a380-9dc0-11eb-982f-9513ee3aecd3.png)
+![Screenshot_1618484299](https://user-images.githubusercontent.com/25106360/114858905-6fce3a00-9dc0-11eb-82bd-52567677964f.png)
+![Screenshot_1618484308](https://user-images.githubusercontent.com/25106360/114858908-7066d080-9dc0-11eb-933a-07b1d95d4b51.png)
+![Screenshot_1618484313](https://user-images.githubusercontent.com/25106360/114858909-7066d080-9dc0-11eb-8aa5-6ba80b31b405.png)
+![Screenshot_1618484316](https://user-images.githubusercontent.com/25106360/114858915-72c92a80-9dc0-11eb-8b24-161ced64dbe3.png)
+![Screenshot_1618484322](https://user-images.githubusercontent.com/25106360/114858920-72c92a80-9dc0-11eb-829c-ef6e196f1d4d.png)
 
-![Screenshot_1618483338](https://user-images.githubusercontent.com/25106360/114857980-49f46580-9dbf-11eb-81d5-30db015c45c3.png)
-![Screenshot_1618483341](https://user-images.githubusercontent.com/25106360/114857987-4bbe2900-9dbf-11eb-9caf-4c42cfaefc06.png)
-![Screenshot_1618483346](https://user-images.githubusercontent.com/25106360/114857989-4c56bf80-9dbf-11eb-83ec-23cd07e731e0.png)
-![Screenshot_1618483350](https://user-images.githubusercontent.com/25106360/114857993-4cef5600-9dbf-11eb-9bd3-ca6a039be764.png)
