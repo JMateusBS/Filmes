@@ -87,7 +87,7 @@ class MainViewModel @ViewModelInject constructor(
                 return NetworkResult.Error("API Key Limited.")
             }
             response.body()!!.results.isNullOrEmpty() -> {
-                return NetworkResult.Error("Recipes not found.")
+                return NetworkResult.Error("Movie not found.")
             }
             response.isSuccessful -> {
                 val movies = response.body()
